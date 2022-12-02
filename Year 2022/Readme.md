@@ -1,6 +1,8 @@
 ***What is get_file_from_server.py***
 
-This file is required to get the puzzle input for the file, if you don't want to use it, just replace "inp.get_text()" with your input.
+This file is required to get the puzzle input for the code, if you don't want to use it, just replace "g.get_file().splitlines()" with your input.
+You should use a list with your input lines separated by commas.
+
 
 ***Upload plan:***
 
