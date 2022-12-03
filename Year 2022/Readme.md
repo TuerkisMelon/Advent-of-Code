@@ -9,4 +9,7 @@ When using the get_file_from_server.py you need to insert your session cookie fr
 Upload of files after the next challange starts
 
 Day 1 upload on 02.12.2022
-Day 2 upload on 
+
+Day 2 upload on 03.12.2022
+
+Day e upload on 
