@@ -27,7 +27,5 @@ if __name__ == "__main__":
         elif groupa[0] >= groupb[0] and groupa[0] <= groupb[1]:
             countb += 1
 
-
-    #969 < e < 913
     print("Part 1", counta)
     print("Part 2", countb)
